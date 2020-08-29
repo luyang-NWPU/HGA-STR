@@ -1,7 +1,7 @@
 # HGA-STR
 
 This code used in Python2.7.
-It's the code for the paprt [A holistic representation guided attention network for scene text recognition](https://arxiv.org/abs/1904.01375) Neurocomputing 2020.
+It's the code for the paper [A holistic representation guided attention network for scene text recognition](https://arxiv.org/abs/1904.01375), Neurocomputing 2020.
 
 ### Install the enviroment
 ```bash
