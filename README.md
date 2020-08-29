@@ -1,7 +1,6 @@
 # HGA-STR
 
 This code used in Python2.7.
-
 It's the code for the paprt [A holistic representation guided attention network for scene text recognition](https://arxiv.org/abs/1904.01375) Neurocomputing 2020.
 
 ### Install the enviroment
@@ -29,19 +28,14 @@ python  pre_img.py  YOUR/MODEL/PATH  YOUR/IMAGE/PATH
 ```
 
 ### Citation
+```
 @article{yang2020holistic,
-
   title={A Holistic Representation Guided Attention Network for Scene Text Recognition},
-  
   author={Yang, Lu and Wang, Peng and Li, Hui and Li, Zhen and Zhang, Yanning},
-  
   journal={Neurocomputing},
-  
   year={2020},
-  
   publisher={Elsevier}
-  
 }
-
+```
 ### Acknowledgment
 This code is based on [MORAN](https://github.com/Canjie-Luo/MORAN_v2) by [Canjie-Luo](https://github.com/Canjie-Luo). Thanks for your contribution.
