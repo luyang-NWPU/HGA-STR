@@ -30,11 +30,17 @@ python  pre_img.py  YOUR/MODEL/PATH  YOUR/IMAGE/PATH
 
 ### Citation
 @article{yang2020holistic,
+
   title={A Holistic Representation Guided Attention Network for Scene Text Recognition},
+  
   author={Yang, Lu and Wang, Peng and Li, Hui and Li, Zhen and Zhang, Yanning},
+  
   journal={Neurocomputing},
+  
   year={2020},
+  
   publisher={Elsevier}
+  
 }
 
 ### Acknowledgment
