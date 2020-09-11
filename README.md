@@ -1,15 +1,14 @@
 # HGA-STR
 
-This code used in Python2.7.
 It's the code for the paper [A holistic representation guided attention network for scene text recognition](https://arxiv.org/abs/1904.01375), Neurocomputing 2020.
-
+Test in Python2.7.
 ### Install the enviroment
 ```bash
     pip install -r requirements.txt
 ```
 Please convert your own dataset to **LMDB** format by create_dataset.py. (Borrowed from https://github.com/bgshih/crnn/blob/master/tool/create_dataset.py, provided by [Baoguang Shi](https://github.com/bgshih))
 
-There are trained model, converted [Synth90K](http://www.robots.ox.ac.uk/~vgg/data/text/) and [SynthText](http://www.robots.ox.ac.uk/~vgg/data/scenetext/) LMDB dataset by [luyang-NWPU](https://github.com/luyang-NWPU): [Here](https://pan.baidu.com/s/1mUMFu693mxAlk900E6YmuQ),  password: q86m
+There are converted [Synth90K](http://www.robots.ox.ac.uk/~vgg/data/text/) and [SynthText](http://www.robots.ox.ac.uk/~vgg/data/scenetext/) LMDB dataset by [luyang-NWPU](https://github.com/luyang-NWPU): [Here](https://pan.baidu.com/s/1mUMFu693mxAlk900E6YmuQ),  password: q86m
 
 
 ### Training
