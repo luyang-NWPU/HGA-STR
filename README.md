@@ -8,7 +8,7 @@ Test in Python2.7.
 ```
 Please convert your own dataset to **LMDB** format by create_dataset.py. (Borrowed from https://github.com/bgshih/crnn/blob/master/tool/create_dataset.py, provided by [Baoguang Shi](https://github.com/bgshih))
 
-There are converted [Synth90K](http://www.robots.ox.ac.uk/~vgg/data/text/) and [SynthText](http://www.robots.ox.ac.uk/~vgg/data/scenetext/) LMDB dataset by [luyang-NWPU](https://github.com/luyang-NWPU): [Here](https://pan.baidu.com/s/1mUMFu693mxAlk900E6YmuQ),  password: q86m
+There are converted [Synth90K](http://www.robots.ox.ac.uk/~vgg/data/text/) and [SynthText](http://www.robots.ox.ac.uk/~vgg/data/scenetext/) LMDB dataset by [luyang-NWPU](https://github.com/luyang-NWPU): [[Here]](https://pan.baidu.com/s/1C42j5EoDy1fTtDE8gwwndw),  password: tw3x
 
 
 ### Training
