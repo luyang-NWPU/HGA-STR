@@ -318,7 +318,7 @@ def trainBatch():
        
        cost = cost_pred1 + cost_pred2
     else:
-       preds1 = MODEL(image, length_ori, ngpu_text1, None, cpu_texts=cpu_texts1)
+       preds1 = MODEL(image, length_ori, text1_ori, None, cpu_texts=cpu_texts1)
        
        text1_new = text1_ori
        
